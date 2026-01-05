@@ -5,3 +5,4 @@ Here I'll be sharing my daily journey of learning new problem statements and doc
 ### Day 02: N-Repeated Element in Size 2N Array
 ### Day 03: Number of Ways to Paint N × 3 Grid
 ### Day 04: Four Divisors
+### Day 05: Maximum Matrix Sum
