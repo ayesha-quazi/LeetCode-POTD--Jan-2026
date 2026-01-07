@@ -6,3 +6,5 @@ Here I'll be sharing my daily journey of learning new problem statements and doc
 ### Day 03: Number of Ways to Paint N × 3 Grid
 ### Day 04: Four Divisors
 ### Day 05: Maximum Matrix Sum
+### Day 06: 
+### Day 07: Maximum Product of Splitted Binary
