@@ -8,3 +8,4 @@ Here I'll be sharing my daily journey of learning new problem statements and doc
 ### Day 05: Maximum Matrix Sum
 ### Day 06: Maximum Level Sum of a Binary Tree
 ### Day 07: Maximum Product of Splitted Binary
+### Day 08: Max Dot Product of Two Subsequences
